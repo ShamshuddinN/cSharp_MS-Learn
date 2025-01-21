@@ -1,0 +1,56 @@
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/bin/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CopyComplete
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/shams/Desktop/LINQ MS_Learn/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/bin/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CopyComplete
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/shams/Desktop/cSharp_MS-Learn/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/bin/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CopyComplete
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/shams/Desktop/cSharp_MS-Learn/Joins/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

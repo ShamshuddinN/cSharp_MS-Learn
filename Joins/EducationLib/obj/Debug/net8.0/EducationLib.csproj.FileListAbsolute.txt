@@ -1,0 +1,35 @@
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/bin/Debug/net8.0/EducationLib.deps.json
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/bin/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/bin/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/EducationLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/EducationLib.AssemblyInfoInputs.cache
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/EducationLib.AssemblyInfo.cs
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/EducationLib.csproj.CoreCompileInputs.cache
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/refint/EducationLib.dll
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/LINQ MS_Learn/EducationLib/obj/Debug/net8.0/ref/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/bin/Debug/net8.0/EducationLib.deps.json
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/bin/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/bin/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.AssemblyInfoInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.AssemblyInfo.cs
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.csproj.CoreCompileInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.sourcelink.json
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/refint/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/cSharp_MS-Learn/EducationLib/obj/Debug/net8.0/ref/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/bin/Debug/net8.0/EducationLib.deps.json
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/bin/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/bin/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.AssemblyInfoInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.AssemblyInfo.cs
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.csproj.CoreCompileInputs.cache
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.sourcelink.json
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/refint/EducationLib.dll
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/EducationLib.pdb
+/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/Debug/net8.0/ref/EducationLib.dll
